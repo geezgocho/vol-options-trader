@@ -25,7 +25,7 @@ python3 options_analysis_main.py
 open spy_vol_surface_3d.html
 ```
 
-**That's it!** You'll get a full SPY volatility analysis in ~15 seconds. See [Getting Started Guide](#getting-started-for-beginners) below for more details.
+**That's it!** You'll get a full SPY volatility analysis. See [Getting Started Guide](#getting-started-for-beginners) below for more details.
 
 ---
 
@@ -259,7 +259,7 @@ All plots saved to `vol-options-trader/` directory:
 - `spy_options_chain.html`
 - `spy_max_pain.html`
 - `spy_gamma_exposure.html`
-- `spy_vol_surface_3d.html` ⭐
+- `spy_vol_surface_3d.html`
 - `spy_vol_skew.html`
 - `spy_term_structure.html`
 - `vix_spy_correlation.html`
@@ -278,13 +278,13 @@ All plots saved to `vol-options-trader/` directory:
 - Max Pain calculation
 - Gamma exposure by strike
 
-**VolatilitySurface** ⭐
+**VolatilitySurface**
 - 3D surface interpolation (cubic/linear/nearest)
 - ATM volatility extraction
 - Skew calculation (OTM puts vs calls)
 - Term structure analysis
 
-**VIXSPYAnalyzer** ⭐
+**VIXSPYAnalyzer**
 - Historical VIX/SPY data fetching
 - Correlation calculation
 - Realized volatility computation
