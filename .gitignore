@@ -1,0 +1,44 @@
+# Generated HTML visualizations
+*.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# API credentials and tokens
+td_token.json
+.env
+*.key
+*.pem
+credentials.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (if you add CSV/Excel later)
+*.csv
+*.xlsx
+*.pickle
+*.pkl
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
