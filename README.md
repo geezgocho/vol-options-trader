@@ -2,6 +2,11 @@
 
 Complete options analysis system with 3D volatility surface modeling, VIX/SPY correlation analysis, and comprehensive Greeks calculations.
 
+<img width="1246" height="355" alt="geezgocho-vol-options-trader-spy-max-pain" src="https://github.com/user-attachments/assets/7e301601-15ca-44e8-9828-e2adafbdd7fa" />
+<img width="1242" height="526" alt="geezgocho-vol-options-trader-spy-vix-corr" src="https://github.com/user-attachments/assets/fb1d625f-8387-432e-a194-a8c7ba932607" />
+<img width="1250" height="476" alt="geezgocho-vol-options-trader-spy-skew-surface" src="https://github.com/user-attachments/assets/14ffbc07-09a3-4ff2-a1c5-ad6e7d5d4d5b" />
+<img width="1114" height="813" alt="geezgocho-vol-options-trader-spy-iv-surface" src="https://github.com/user-attachments/assets/a4e45052-1375-408c-b92b-0acc65c6e873" />
+
 ## 🚀 Quick Start (New to This?)
 
 ### **Fastest Way to Get Started**
