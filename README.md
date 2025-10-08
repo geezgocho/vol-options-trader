@@ -448,9 +448,6 @@ Manually open the HTML files:
 # macOS
 open spy_vol_surface_3d.html
 
-# Linux
-xdg-open spy_vol_surface_3d.html
-
 # Windows
 start spy_vol_surface_3d.html
 ```
